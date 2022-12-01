@@ -1,5 +1,5 @@
 # Advent of Code 2022
-Advent of Code is an annual coding challenge to encourage developers to hone skills and learn new methods and languages. For 2022, I'm going to use my preferred programming language, Go, and possibly add some other languages such as Python.
+Advent of Code is an annual coding challenge to encourage developers to hone skills and learn new methods and languages. For 2022, I'm going to use Go, Racket (which I'm learning), and possibly add some other languages such as Python.
 
 Each day starting December 1, 2022, a challenge will be posted on [the Advent of Code site](https://adventofcode.com/). Upon completing the challenge, users submit their answers and receive a star for completion and gain access to a more difficult challenge. Challenges may involve complex algorithms or hardware limitations; optimization is key for the second challenge and sometimes required for the first.
 
