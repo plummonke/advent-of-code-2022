@@ -4,10 +4,10 @@ Advent of Code is an annual coding challenge to encourage developers to hone ski
 Each day starting December 1, 2022, a challenge will be posted on [the Advent of Code site](https://adventofcode.com/). Upon completing the challenge, users submit their answers and receive a star for completion and gain access to a more difficult challenge. Challenges may involve complex algorithms or hardware limitations; optimization is key for the second challenge and sometimes required for the first.
 
 ## Challenges Completed
-- [ ] Day 1 Challenge 1
-- [ ] Day 1 Challenge 2
-- [ ] Day 2 Challenge 1
-- [ ] Day 2 Challenge 2
+- [x] Day 1 Challenge 1
+- [x] Day 1 Challenge 2
+- [x] Day 2 Challenge 1
+- [x] Day 2 Challenge 2
 - [ ] Day 3 Challenge 1
 - [ ] Day 3 Challenge 2
 - [ ] Day 4 Challenge 1
