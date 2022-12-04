@@ -8,10 +8,10 @@ Each day starting December 1, 2022, a challenge will be posted on [the Advent of
 - [x] Day 1 Challenge 2
 - [x] Day 2 Challenge 1
 - [x] Day 2 Challenge 2
-- [ ] Day 3 Challenge 1
-- [ ] Day 3 Challenge 2
-- [ ] Day 4 Challenge 1
-- [ ] Day 4 Challenge 2
+- [x] Day 3 Challenge 1
+- [x] Day 3 Challenge 2
+- [x] Day 4 Challenge 1
+- [x] Day 4 Challenge 2
 - [ ] Day 5 Challenge 1
 - [ ] Day 5 Challenge 2
 - [ ] Day 6 Challenge 1
