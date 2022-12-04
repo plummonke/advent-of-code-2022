@@ -35,11 +35,7 @@ func main() {
 
 		elf2 := strings.Split(elves[1], "-")
 		px, _ = strconv.Atoi(elf2[0])
-		py, err := strconv.Atoi(elf2[1])
-
-		if err != nil {
-			fmt.Println(err.Error())
-		}
+		py, _ := strconv.Atoi(elf2[1])
 
 		p2 := NewPair(px, py)
 
