@@ -2,28 +2,28 @@ package main
 
 import (
 	"fmt"
-    "log"
-    "os"
-    "path/filepath"
-    "strings"
+	"log"
+	"os"
+	"path/filepath"
 	"strconv"
-    
-    "aoc2022/utility"
+	"strings"
+
+	"aoc2022/utility"
 )
 
 func main() {
-    p, err := filepath.Abs(os.Args[1])
-    if err != nil {
-        log.Fatal(err.Error())
-    }
+	p, err := filepath.Abs(os.Args[1])
+	if err != nil {
+		log.Fatal(err.Error())
+	}
 
-    text, err := utility.ReadFile(p)
-    if err != nil {
-        log.Fatal(err.Error())
-    }
+	text, err := utility.ReadFile(p)
+	if err != nil {
+		log.Fatal(err.Error())
+	}
 
 	textArr := strings.Split(text, "\r\n")
-	
+
 	var pairs [][]Pair
 	for _, each := range textArr {
 		elves := strings.Split(each, ",")
@@ -35,7 +35,7 @@ func main() {
 
 		elf2 := strings.Split(elves[1], "-")
 		px, _ = strconv.Atoi(elf2[0])
-		py, _ := strconv.Atoi(elf2[1])
+		py, _ = strconv.Atoi(elf2[1])
 
 		p2 := NewPair(px, py)
 
